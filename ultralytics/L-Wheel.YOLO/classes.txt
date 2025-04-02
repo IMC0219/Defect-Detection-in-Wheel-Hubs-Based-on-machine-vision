@@ -1,0 +1,7 @@
+Peeling
+Out_Of_Roundness
+Brake_Thermal_Cracks
+Contact_Fatigue_Cracks
+Blue hole
+Rollerpile
+flat

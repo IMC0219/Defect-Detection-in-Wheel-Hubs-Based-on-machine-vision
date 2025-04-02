@@ -1,0 +1,11 @@
+分类名： (图片张数，标注个数) 
+----------------------------
+Peeling:  (460, 1276)
+Out_Of_Roundness:  (37, 48)
+Brake_Thermal_Cracks:  (70, 391)
+Contact_Fatigue_Cracks:  (300, 817)
+Blue hole:  (311, 483)
+Rollerpile:  (301, 320)
+flat:  (293, 315)
+总数:  (1445, 3650)
+总类(nc):  7类
